@@ -1,0 +1,22 @@
+.About_card{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    color: white;
+}
+.Card_One{
+    height: 400px;
+    width: 50%;
+    background: rgb(22, 22, 49);
+    text-align: center;
+}
+.Card_two{
+    height: 400px;
+    width: 50%;
+    background: rgb(12, 12, 39);
+    text-align: center;
+}
+.Card_One p{
+    padding-top: 59px;
+}
+

@@ -1,0 +1,25 @@
+
+  .navbar {
+    height: 60px;
+    width: 100%;
+    position: relative;
+    font-size: large;
+    cursor: pointer;
+    background-color: rgb(39, 38, 38);
+    color: white;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 20px;
+  }
+  .navbar  .logo{
+    float: left;
+  }
+
+
+ul{
+list-style: none;
+}
+  
+
+

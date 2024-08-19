@@ -1,0 +1,14 @@
+.footer-text{
+height:250px;
+width: 100%;
+background-color: rgb(49, 45, 45);
+color: white;
+display: flex;
+justify-content: center;
+gap: 80px;
+font-size: 20px;
+padding-top: 50px;
+}
+.footer-icons{
+    gap: 30px;
+}
