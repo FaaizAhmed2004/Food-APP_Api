@@ -20,6 +20,25 @@
 ul{
 list-style: none;
 }
-  
+.navlink {
+  color: white;
+  text-decoration: none;
+}
+  /* Media query for smaller screens */
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column; /* Change to column layout */
+    align-items: flex-start; /* Align items to the start */
+  }
+
+  .navbar .logo {
+    text-align: center; /* Center logo on smaller screens */
+  }
+
+  ul {
+    flex-direction: column; /* Change to column layout */
+    gap: 10px; /* Reduce gap between items */
+  }
+}
 
 
